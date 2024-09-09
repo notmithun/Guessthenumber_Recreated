@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess the Number (Recreated)</string>
+    <string name="gtn_recreation">Guess the Number (Recreated)</string>
+    <string name="start">Start</string>
+    <string name="ver_history">Version History</string>
+    <string name="textview">"This open-source project / app was mainly created by Mithun. \n Helps were from ChatGPT and Google. A GitHub page was \n made, if you want you may check it out! "</string>
+    <string name="guess_the_number">Guess the Number</string>
+    <string name="todo">TODO</string>
+    <string name="guess_it">Guess it!</string>
+    <string name="version">version</string>
+</resources>
